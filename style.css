@@ -39,6 +39,13 @@ h1{
     font-weight: 700;
     
 }
+.footer_text{
+    color: #FFFFFF;
+    text-align: center;
+}
+.footer_section p{
+    color: #FFFFFF;
+}
 
 span{
     color: #21B573;
@@ -122,7 +129,7 @@ h3{
 }
 
 p{
-    text-align:left;
+    text-align:center;
     padding-bottom: 5px;
     color:black;
     
@@ -206,6 +213,7 @@ p{
 
 .centerise{
     text-align: center;
+
     
 }
 .col{
@@ -229,7 +237,7 @@ p{
 
 /*footer-design*/
 footer{
-    text-align: center;
+    text-align:justify;
     color: whitesmoke;
 }
 
@@ -238,10 +246,12 @@ p{
     color:white;
 }
 .banner_p{
-    color: black;
+    color:rgb(44, 7, 68);
+    text-align: left;
 }
 .about_size{
     font-size: 38px;
+    color:red;
 }
 .about_color{
     color: green;
@@ -249,9 +259,9 @@ p{
 }
 .para_sizing{
     text-align: justify;
-    color: black;
+    color:rgb(4, 4, 71)
 }
 .testimonial{
-    color: black;
+    color:black;
     margin-top: 30px;
 }
