@@ -67,14 +67,14 @@ span{
     
     width: 20px;
     height: 18;
-    margin-bottom: 20px;
+
    
 }
 
 .footer-photo img{
    width: 20px;
    height: 18;
-   margin-bottom: 50pxpx;
+
    margin-right: 5px;
    
 }
@@ -217,9 +217,14 @@ p{
     
 }
 .col{
+  
     text-align: center;
+    height: 270px;
+    padding-top: 52px;
 }
-
+.card-body p{
+    text-align: left !important;
+}
 
     /*last section*/
 .last-section{
@@ -240,7 +245,6 @@ footer{
     text-align:justify;
     color: whitesmoke;
 }
-
 
 p{
     color:white;
@@ -263,5 +267,15 @@ p{
 }
 .testimonial{
     color:black;
+    margin-top: 30px;
+}
+.footer_text{
+    margin-top: 30px;
+}
+.custom_email{
+    margin-bottom: 53px;
+    margin-left: 50px;
+}
+.copy_text{
     margin-top: 30px;
 }
